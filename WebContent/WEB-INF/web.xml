@@ -14,7 +14,7 @@
 	
   	<servlet>
     	<servlet-name>Accueil</servlet-name>
-    	<servlet-class>com.oc_lade.servlets.SRV_Accueil</servlet-class>
+    	<servlet-class>com.sm.servlets.SRV_Accueil</servlet-class>
   	</servlet>
   	<servlet-mapping>
     	<servlet-name>Accueil</servlet-name>

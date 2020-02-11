@@ -1,4 +1,4 @@
-package com.sm.beans;
+package com.sm.servlets;
 
 import java.io.IOException;
 
